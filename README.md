@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/UI-English%20%7C%20Khmer-5849be" alt="English and Khmer UI">
 </p>
 
-ScreenMirror is an MIT-licensed **Windows screen mirroring** project for **Android to Windows** device management. This **Python Screen Mirroring Application** and **PySide6 Desktop Application** uses ADB for discovery and connections, then launches the bundled Windows x64 scrcpy process for native screen display, input, and optional recording. Its English/Khmer UI makes the project useful as Khmer screen mirroring software as well as an international Android screen mirroring tool. The GitHub repository is currently private, so the MIT-licensed source is not publicly accessible yet.
+ScreenMirror is an MIT-licensed **Windows screen mirroring** project for **Android to Windows** device management. This **Python Screen Mirroring Application** and **PySide6 Desktop Application** uses ADB for discovery and connections, then launches the bundled Windows x64 scrcpy process for native screen display, input, and optional recording. Its English/Khmer UI makes the project useful as Khmer screen mirroring software as well as an international Android screen mirroring tool. The GitHub repository is private, so cloning the source requires authorization.
 
 > **Repository access:** This GitHub repository is private; cloning the source requires authorization. No downloadable GitHub Release package has been verified. See the installation guide for source and package instructions.
 
